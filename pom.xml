@@ -40,6 +40,15 @@
 			<email>japarejo@gmail.com</email>
 			<url>http://www.isa.us.es</url>
 		</developer>
+		<developer>
+			<id>Rafa</id>
+			<name>Rafael Freara</name>
+			<email>rfreara@gmail.com</email>
+			<url>http://www.isa.us.es</url>
+			<roles>
+				<role>leader</role>
+			</roles>
+		</developer>
 	</developers>
 
 	<dependencies>		
